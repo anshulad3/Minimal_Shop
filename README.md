@@ -1,16 +1,47 @@
-# minimal_shop
+UrbanAttire_Shop
 
-A new Flutter project.
+Overview
+This is a Flutter-based E-Commerce app designed for browsing, searching, and purchasing products. It features a HardCoded product catalog, a shopping cart. 
 
-## Getting Started
+Tech Stack
+Flutter: The frontend framework for the mobile app.
+Provider: For state management in Flutter.
+Dart: Programming language used with Flutter.
 
-This project is a starting point for a Flutter application.
+Getting Started
+Prerequisites
+Before you begin, ensure you have the following installed:
 
-A few resources to get you started if this is your first Flutter project:
+   Flutter SDK
+   Dart SDK
+   Android Studio or Xcode for iOS development
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Setup Instructions
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository  
+
+                       git clone https://github.com/anshulad3/UrbanAttire_Shop.git cd UrbanAttire-shop
+   
+2. Install Flutter dependencies
+
+                       flutter pub get
+
+3. Run the app
+
+                       flutter run
+
+
+Folder Structure
+
+├── android/
+├── ios/
+├── lib/
+│   ├── components/
+│   ├── images/
+│   ├── models/
+│   ├── pages/
+│   └── themes/
+├── pubspec.yaml
+└── README.md
+   
+    
