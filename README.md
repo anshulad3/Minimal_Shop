@@ -1,9 +1,9 @@
 UrbanAttire_Shop
 
-Overview
+1.Overview
 This is a Flutter-based E-Commerce app designed for browsing, searching, and purchasing products. It features a HardCoded product catalog, a shopping cart. 
 
-Tech Stack
+2.Tech Stack
 
 Flutter: The frontend framework for the mobile app.
 
@@ -11,20 +11,20 @@ Provider: For state management in Flutter.
 
 Dart: Programming language used with Flutter.
 
-Getting Started
+3.Getting Started
 
 
-Prerequisites
+i.Prerequisites
 
 Before you begin, ensure you have the following installed:
 
-   Flutter SDK
+   1.Flutter SDK
 
-   Dart SDK
+   2.Dart SDK
 
-   Android Studio or Xcode for iOS development
+   3.Android Studio or Xcode for iOS development
 
-Setup Instructions
+ii.Setup Instructions
 
 1. Clone the repository  
 
@@ -39,7 +39,7 @@ Setup Instructions
                        flutter run
 
 
-Folder Structure
+iii.Folder Structure
 
 ├── android/
 ├── ios/
