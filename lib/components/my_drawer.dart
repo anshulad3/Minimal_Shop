@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:minimal_shop/components/my_list_tile.dart';
-import 'package:minimal_shop/themes/theme_provider.dart';
 import 'package:provider/provider.dart';
+import '../themes/theme_provider.dart';
+import 'my_list_tile.dart';
 
 class MyDrawer extends StatelessWidget {
   const MyDrawer({super.key});

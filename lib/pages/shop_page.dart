@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:minimal_shop/components/my_drawer.dart';
-import 'package:minimal_shop/components/my_product_tile.dart';
-import 'package:minimal_shop/models/product.dart';
+
 import 'package:provider/provider.dart';
+import '../components/my_drawer.dart';
+import '../components/my_product_tile.dart';
+import '../models/product.dart';
 import '../models/shop.dart';
 
 class ShopPage extends StatefulWidget {

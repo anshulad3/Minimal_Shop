@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:minimal_shop/components/cart_tiles.dart';
-import 'package:minimal_shop/components/my_button.dart';
 import 'package:provider/provider.dart';
+import '../components/cart_tiles.dart';
+import '../components/my_button.dart';
 import '../models/shop.dart';
 
 class CartPage extends StatelessWidget {

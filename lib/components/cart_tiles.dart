@@ -1,11 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:minimal_shop/models/product.dart';
-import 'package:minimal_shop/pages/product_detail_page.dart';
 import 'package:flutter_slidable/flutter_slidable.dart';
 import 'package:provider/provider.dart';
-
+import '../models/product.dart';
 import '../models/shop.dart';
+import '../pages/product_detail_page.dart';
 
 class CartTiles extends StatefulWidget {
   final CartItem product;

@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
-
-import 'package:minimal_shop/pages/product_detail_page.dart';
-
 import '../models/product.dart';
+import '../pages/product_detail_page.dart';
 
 class MyProductTile extends StatelessWidget {
   final Product product;
